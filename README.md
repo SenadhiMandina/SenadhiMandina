@@ -1,29 +1,52 @@
+<!-- ========================================================= -->
+<!--                  SENADHI MANDINA PROFILE                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Hi, I'm Senadhi Mandina 👋
-
-### Computer Science Undergraduate | Software Engineering Enthusiast | Full-Stack Developer
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Full-Stack+%26+Backend+Developer;Building+with+React%2C+FastAPI%2C+Java+%26+MySQL;Turning+ideas+into+useful+digital+products;Open+to+Software+Engineering+Internships"
-  alt="Typing introduction"
+  width="100%"
+  src="./assets/senadhi-build-mode.gif"
+  alt="Senadhi Mandina developer animation"
 />
 
 <br/>
 
+<h1>Hi, I'm Senadhi Mandina 👋</h1>
+
+<p>
+  <strong>Computer Science Undergraduate · Full-Stack Developer · Backend Enthusiast</strong>
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+responsive+web+experiences;Developing+REST+APIs+and+backend+services;Turning+ideas+into+practical+digital+products;Open+to+Software+Engineering+internships"
+  alt="Typing introduction"
+/>
+
+<br/><br/>
+
 <a href="https://senadhimandina.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
+<a href="https://github.com/SenadhiMandina?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 <a href="https://www.linkedin.com/in/senadhi-mandina">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:haksenadhimandina123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="mailto:haksenadhimandina123@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SenadhiMandina&label=Profile%20Views&color=0284C7&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Sri_Lanka-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Sri Lanka"/>
+<img src="https://img.shields.io/badge/Open_to_Internships-16A34A?style=flat-square" alt="Open to internships"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -268,7 +291,7 @@ Build, integrate, test and debug the main features.
 
 **Deliver**
 
-Deploy, evaluate and continuously improve the product.
+Deploy and continuously improve the product.
 
 </td>
 
