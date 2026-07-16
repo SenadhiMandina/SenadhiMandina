@@ -97,18 +97,6 @@ I enjoy transforming ideas into practical digital products by combining responsi
 
 ---
 
-## 🧭 How I Turn Ideas into Software
-
-```text
-DISCOVER  → Understand the problem, users and project goals
-DESIGN    → Plan the interface, data flow and application structure
-DEVELOP   → Build the frontend, backend and database integration
-VALIDATE  → Test, debug and improve reliability
-DELIVER   → Deploy, evaluate and continue refining the product
-```
-
----
-
 ## ⚙️ Technical Toolkit
 
 <div align="center">
@@ -249,30 +237,6 @@ A responsive property-search application featuring organised listings, property 
 </td>
 </tr>
 </table>
-
----
-
-## 🧩 More Projects
-
-<div align="center">
-
-<a href="https://github.com/SenadhiMandina/Traffic-CSV-Analyzer">
-  <img src="https://img.shields.io/badge/Traffic_CSV_Analyzer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Traffic CSV Analyzer"/>
-</a>
-<a href="https://github.com/SenadhiMandina/Flight-Route-System">
-  <img src="https://img.shields.io/badge/Flight_Route_System-Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Flight Route System"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SenadhiMandina/Climate-Change-Awareness-Web-Application">
-  <img src="https://img.shields.io/badge/Climate_Awareness-Web_Application-16A34A?style=for-the-badge&logo=html5&logoColor=white" alt="Climate Change Awareness Web Application"/>
-</a>
-<a href="https://github.com/SenadhiMandina/CareGiver-App-Figma-Prototype-">
-  <img src="https://img.shields.io/badge/CareGiver_App-UI%2FUX_Prototype-A855F7?style=for-the-badge&logo=figma&logoColor=white" alt="CareGiver App prototype"/>
-</a>
-
-</div>
 
 ---
 
